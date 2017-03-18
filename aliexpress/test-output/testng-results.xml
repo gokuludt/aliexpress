@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[Chrome Browser launched]]>
+    </line>
+    <line>
+      <![CDATA[Application url not opened in the browser]]>
+    </line>
+    <line>
+      <![CDATA[Prmo Ad is clicked in the webpage]]>
+    </line>
+    <line>
+      <![CDATA[Clear Trip Page Loaded Successfully]]>
+    </line>
+    <line>
+      <![CDATA[xiaomi Redmi Note is populated in Product]]>
+    </line>
+    <line>
+      <![CDATA[xiaomi Redmi Note is entered in the webpage]]>
+    </line>
+    <line>
+      <![CDATA[Search Button is clicked in the webpage]]>
+    </line>
+    <line>
+      <![CDATA[Product Search is Successfull]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "100% Original Xiaomi Redmi note 4X Snapdragon 625 3GB RAM 32G ROM OCTA Core 5.5 " 1080P MIUI 8 Fingerprint ID note4 4G FDD LTE" Product Price: US $155.99 - 299.99]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "brand new Original Xiaomi Redmi note 4 MTK Helio X20 2GB RAM 16GB ROM Deca Core 5.5 " 1080P MIUI 8 Fingerprint ID note4" Product Price: US $155.99 - 299.99]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "Original BRAND NEW Xiaomi Redmi note 4X Snapdragon 625 3GB RAM 32G ROM OCTA Core 5.5 " 1080P MIUI 8 Fingerprint ID notE 4X" Product Price: US $155.99 - 299.99]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "100% Original brand new 4000mAh Xiaomi Redmi Note 3 PRO 5.5 Inch 2G Ram 16G Rom 1080p HD mobilephone free shipping" Product Price: US $155.99 - 299.99]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "Original Xiaomi Redmi Note 4XSnapdragon 625 Octa Base 5.5 "FHD 3 GB RAM 32 GB ROM 13.0MP Fingerprint Digital Ca" Product Price: US $155.99 - 299.99]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "100% Original Xiaomi Redmi note 4 MTK Helio X20 3GB RAM 64G ROM Deca Core 5.5 " 1080P MIUI 8 Fingerprint ID note4 4G FDD LTE" Product Price: US $155.99 - 299.99]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "100% Original Xiaomi Redmi Note 3 PRO 5.5 Inch 2G Ram 16G Rom 1080p HD 5MP 13MP Camera 4000mAh MOBILEPHONE FREE SHIPING" Product Price: US $155.99 - 299.99]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "Original Xiaomi Redmi Note 3 pro prime 5.5 Inch 3G Ram 32G Rom 1080p HD 5MP 13MP Camera 4000mAh Freeship" Product Price: US $155.99 - 299.99]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "brand new Original Xiaomi Redmi Note 3 Pro prime Snapdragon 650 Hexa Core 5.5'' 3GB RAM 32GB ROM 4000mAh google play MIUI 8" Product Price: US $155.99 - 299.99]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "ORIGINAL BRAND NEW Original brand new 4000mAh Xiaomi Redmi Note 3 pro 5.5 Inch 2G Ram 16G Rom 1080p HD mobilephone" Product Price: US $155.99 - 299.99]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "original new Xiaomi Redmi note 4X Snapdragon 625 3GB RAM 32G ROM OCTA Core 5.5 " 1080P MIUI 8 Fingerprint ID note4 4G FDD LTE" Product Price: US $155.99 - 299.99]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "Original Xiaomi Redmi note 4 MTK Helio X20 3GB RAM 32GB ROM Deca Core 5.5 " 1080P MIUI 8 Fingerprint ID note4 4G FDD LTE" Product Price: US $155.99 - 299.99]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "freeshiping 100% Original Xiaomi Redmi Note 3 pro 5.5 Inch 3G Ram 32G Rom 1080p HD 5MP 13MP Camera 4000mAh mobilephone" Product Price: US $155.99 - 299.99]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "brand new Xiaomi Redmi note 4 4GB RAM 64G ROM MTK Helio X20 Deca Core 5.5 " 1080P MIUI 8 Fingerprint ID note4 4G FDD LTE" Product Price: US $155.99 - 299.99]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "100% Original Xiaomi Redmi note 4 4GB RAM 64G ROM MTK Helio X20 Deca Core 5.5 " 1080P MIUI 8 Fingerprint ID note4 4G FDD LTE" Product Price: US $155.99 - 299.99]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "Original Xiaomi Redmi Redrice Note 3 pro 5.5 Inch 3G Ram 32G Rom 1080p HD 5MP 13MP Camera 4000mAh Freeship" Product Price: US $155.99 - 299.99]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "free shipping Original Xiaomi Redmi Redrice Note 3pro 5.5 Inch 2G Ram 16G Rom 1080p HD 5MP 13MP mobilephone" Product Price: US $155.99 - 299.99]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "Xiaomi Redmi Note 4 Case Nillkin Nature Series Transparent Clear Soft TPU Case for Xiaomi Redmi Note 4 Pro 5.5 inch" Product Price: US $155.99 - 299.99]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "Xiaomi Redmi Note 3 Pro Special Edition Case Lenuo Flip Case For Xiaomi Redmi Note 3i Prime SE Glass Global Internatio Version" Product Price: US $155.99 - 299.99]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "Xiaomi Redmi Note 3 Candy Color PU Leather With Card Slot Wallet Case For Xiaomi Redmi Note 3 Pro Prime China Version #0624" Product Price: US $155.99 - 299.99]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "xiaomi redmi note 2 Case NILLKIN Super Frosted Shield back cover case for xiaomi redmi note2 with free screen protector+package" Product Price: US $155.99 - 299.99]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "Xiaomi redmi note 4 Cover Xiaomi redmi note 4 case iMUCA Luxury flip leather cover cases xiaomi redmi note 4 pro prime capa" Product Price: US $155.99 - 299.99]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "xiaomi Redmi note 4 case original 100% from xiaomi PU leather flip cover for xiaomi redmi note4 pro case redmi note 4X" Product Price: US $155.99 - 299.99]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "In stock 100% original xiaomi redmi note 2 protector case flip sabic matte leather cover for redmi note 2 5.5 free Shipping" Product Price: US $155.99 - 299.99]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "Xiaomi Redmi Note 3 pro case cover silicone flip leather Mofi luxury xiaomi redmi note 3 case cover soft silicon metal cover 150" Product Price: US $155.99 - 299.99]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "Fashion Xiaomi Redmi Note 4 Case Luxury Silm Smooth & Matte Hard Protective Back Cover For Xiaomi Redmi Note 4 Pro Prime Cases" Product Price: US $155.99 - 299.99]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "Xiaomi Redmi Note 4 Case Cover silicon back flip Leather Original Mofi Xiaomi Redmi Note 4 pro case ultra thin hard metal cover" Product Price: US $155.99 - 299.99]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "New Frosted Silicone TPU Painted Soft Phone Back Cover Case For Xiaomi Redmi Note 3 3i Pro Special Edition SE 152mm 150mm Size" Product Price: US $155.99 - 299.99]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "Capa Xiaomi Redmi Note 3 Pro Case Accessory Silicone Plastic 2 in 1 Material Back Cover Coque Redmi Note3 Phone Bag Cases Fundas" Product Price: US $155.99 - 299.99]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "Xiaomi Redmi Note 2 Case Nillkin PU Leather Flip Cover Case For Xiaomi Redmi Note 2 TPU Case" Product Price: US $155.99 - 299.99]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "IMUCA Brand Xiaomi Redmi Note 4 capa Phone Case Cases xiaomi redmi note 4 pro Prime PU Leather Flip Case Coque Fundas Carcasa" Product Price: US $155.99 - 299.99]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "Xiaomi Redmi Note 2 Case Nillkin Nature Series Soft TPU Case Back Cover Case For Xiaomi Redmi Note 2 Pro Prime" Product Price: US $155.99 - 299.99]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "PZOZ Xiaomi Redmi Note 4 Case Silicone Cover Original Xiaomi Redmi Note 4 Pro Luxury Transparent Shockproof Phone Soft Shell" Product Price: US $155.99 - 299.99]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "Xiaomi Redmi Note 3 Case Nillkin Super Frosted Shield for Xiaomi Redmi Note 3 protection" Product Price: US $155.99 - 299.99]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "3D Relief Printing Clear Soft TPU Case For xiaomi Redmi note 4 / Redmi Note 4 Pro / Prime 5.5" Phone Bag Back Cover Shell Coque" Product Price: US $155.99 - 299.99]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "Case For Xiaomi Redmi Note 4 Wallet Flip Style Broncos PU Leather Cover With Card Holders For Xioami Note4 4G Phone Bag Coque" Product Price: US $155.99 - 299.99]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "100% Original | In stock | Xiaomi Redmi Note 3 Hard Case | PC | Simple | Self-colored | Non-transparent | RoHS" Product Price: US $155.99 - 299.99]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "TPU Print Cover Thickness 1.2mm For Xiaomi Redmi Note 3 Pro Prime SE Special Edition 152mm Case For Redmi Note 3 Pro Prime SE" Product Price: US $155.99 - 299.99]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "Xiaomi redmi note 4 case redmi note 4 pro prime cover Nillkin frosted case for xiaomi redmi note 4 pro prime with glass film" Product Price: US $155.99 - 299.99]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "Xiaomi Redmi Note 2 Case Nillkin Frosted Shield Hard Back Cover Case For Xiaomi Redmi Note 2 Prime Gift Screen Protector" Product Price: US $155.99 - 299.99]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "Xiaomi Redmi Note 4 Case redmi note 4 Cover Luxury Flip Leather Cover Case For Xiaomi Redmi Note 4 Pro Prime Red Rice Note4 capa" Product Price: US $155.99 - 299.99]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "100% from xiaomi company Original Xiaomi Redmi Note 4 Case PU Flip Case For Xiaomi Redmi Note4 Pro" Product Price: US $155.99 - 299.99]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "Xiaomi Redmi Note 4 Case Nillkin Frosted Shield Cover Case For Xiaomi Redmi Note 4 Pro Prime 5.5 inch With Film" Product Price: US $155.99 - 299.99]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "Xiaomi Redmi Note 3 pro case cover silicone flip leather Mofi luxury xiaomi redmi note 3 case cover soft silicon metal cover 150" Product Price: US $155.99 - 299.99]]>
+    </line>
+    <line>
+      <![CDATA[Application url not opened in the browser]]>
+    </line>
+    <line>
+      <![CDATA[Clear Trip Page Loaded Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Computer & Office is populated in Category]]>
+    </line>
+    <line>
+      <![CDATA[Laptops is populated in Product]]>
+    </line>
+    <line>
+      <![CDATA[Category Name is clicked in the webpage]]>
+    </line>
+    <line>
+      <![CDATA[Product Name is clicked in the webpage]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "GPD WIN Gamepad Laptop NoteBook Tablet PC 5.5" Handheld Game Console Video Game Player x7-Z8750 Windows Bluetooth 4.1 4GB/64GB" Product Price: US $363.09]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "Jumper Air 11.6 Inch Windows 10 Aluminum Laptop Computer IPS 1920x1080 Intel Atom Z8350 4GB RAM 128GB ROM USB Type C Ultrabook" Product Price: US $363.09]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "Chuwi LapBook 14.1 Inch LapTop Intel Apollo lake N3450 Windows10 RAM 4G DDR3 ROM 64G 1920x1080 IPS Dual WIFI Gen9 Ultrathin" Product Price: US $363.09]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "Kingdel Newest Core i5 5200U CPU 13.3 Inch Backlit Keyboard Ultrabook Laptop Computer max 8GB RAM 512G SSD Webcam Wifi Bluetooth" Product Price: US $363.09]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "Jumper EZbook 2 A14 Laptop 14.1 Inch Windows 10 notebook computer 1920x1080 FHD Intel Cherry Trail Z8300 4GB 64GB ultrabook" Product Price: US $363.09]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "14" 8GB RAM 750GB HDD 64GB SSD ultra thin laptop computer HD screen J1900 quad core WIFI Windows 8 notebook" Product Price: US $363.09]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "14inch laptop computer Intel N3150 Quad core 1920*1080 HD screen USB 3.0 HDMI fanless Windows ultrabook" Product Price: US $363.09]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "Bben 14.1 Inch Notebook Laptop Computer Intel N2840 Core Windows10 16:9 HD Screen 2GB RAM/32GB EMMC 500G HDD Ultrabook Computer" Product Price: US $363.09]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "Jumper EZbook 2 A14 14.1 Inch Ultrabook Notebook 1920 x 1080 IPS Display Intel X5 Z8300 4GB RAM 64GB ROM eMMC Windows 10 Laptop" Product Price: US $363.09]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "13.3inch windows 10 ultrabook laptop computer 2GB 64GB EMMC 1920*1080 HD screen aluminium back case notbook PC" Product Price: US $363.09]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "Bben laptop quad cores i7-6700K 8M Cache, 4.0GHZ-4.20 GHz RAM DDR4 16GB,ROM M.2 SSD 128GB+1TB HDD 17.3inch windows10 GTX970M" Product Price: US $363.09]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "BBen laptop notebook DDR4 64GB+128GB M.2 SSD+500G HDD Intel i7-6700K quad cores windows10 wifi HDMI type-c" Product Price: US $363.09]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "BBen AK13 Laptops Ultrabook 13.3'' Windows 10 Intel Haswell i5-5200U Dual Core RAM 4G + SSD 64G HDMI WiFi BT4.0 13 inch Notebook" Product Price: US $363.09]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "Xiaomi Mi Notebook Air i5 13.3 8GB DDR4 RAM 256GB SSD Windows 10 1920 x 1080 2.7GHz Ultrabook laoptop Built-in 256GB SSD" Product Price: US $363.09]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "Gold English Xiaomi Air 12 Laptop Notebook Ultra Slim 12.5 inch Windows 10 IPS FHD 1920 x 1080 4GB RAM 128GB SSD HDMI 2.2GHz" Product Price: US $363.09]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "Aluminium Metal Ultrabook Laptop Intel Core i7 5600U 8G RAM 256G SSD Laptops Notebook Window 7 8 10 Linux 7000mah battery 2.6Ghz" Product Price: US $363.09]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "Original Xiaomi Mi laptop Air Intel Core i7-6500U CPU 8GB DDR4 RAM Intel GPU 13.3inch Notebook Windows 10 Built-in 256GB SSD" Product Price: US $363.09]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "Gaming Laptop i7 8GB RAM 64GB SSD +750GB HDD 15.6inch Large Notebook PC DVD Metal Case AZERTY Italian Spanish Russian Keyboard" Product Price: US $363.09]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "Partaker G3 Intel Dual Core I7 5600U Windows Laptops computer with 13.3 Inch" Product Price: US $363.09]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "Jumper Ezbook 2 Ultrabook Laptop Windows 10 Home Intel Cherry Trail X5-Z8300 Quad Core 1.44GHz 4GB+64GB HDMI 14.1 inch Notebook" Product Price: US $363.09]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "Partaker 13.3 inch Intel i7 5600u Notebook Laptop Computer with Bluetooth Webcam 7000mah Battery" Product Price: US $363.09]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "CHUWI LapBook 14.1 inch LapTop Intel Apollo Lake N3450 Windows10 4GB RAM 64GB ROM Tablet PC NoteBook IPS 1920x1080 Full HD" Product Price: US $363.09]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "New 14 inch notebook computer Ultrabook laptop PC Windows8.1 In-tel Celeron J1900 2.0Ghz 4GB DDR3 750GB HDD WIFI HDMI webcam" Product Price: US $363.09]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "FREESHIPPING 3.4GHz INTEL CORE I7 6700 quad CORE 8G RAM 120G SSD ROM 2G DEDICATED GRAPHICS CARD 400W POWER SUPPLY 32" ALL-IN-ONE" Product Price: US $363.09]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "ultraslim 32GB eMMC and 64G SSD Memory 4G DDR3 CPU Intel Z8300 notebook laptop window 10 HDMI VIFI ultra thin laptop" Product Price: US $363.09]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "CHUWI LapBook Intel Cherry Trail Z8350 Quad Core 1.44GHz 4GB RAM Windows 10 FHD Screen 15.6 inch Notebook FHD Screen Notebook" Product Price: US $363.09]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "Chuwi LapBook 14.1 inch LapTop Windows10 Intel Apollo lake N3450 4GB RAM 64GB ROM IPS 1920x1080 Full HD Tablet PC NoteBook" Product Price: US $363.09]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "CHUWI LapBook 14.1"Windows 10 FHD Screen Notebook Intel Apollo Lake Celeron N3450 Quad Core 1.1GHz 4GB/64GB HDMI WiFi Laptop" Product Price: US $363.09]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "Laptops 1920*1080P 14.0 inch Laptop Ultrabook Dual Core 8GB RAM 1TB HDD + 64Gb SSD WIFI Bluetooth USB 3.0 Port on Sale" Product Price: US $363.09]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "Xiaomi Mi Laptop Notebook Air English Windows 10 Intel Core M3-6Y30 CPU 4GB DDR3 RAM Intel GPU 12.5 inch display SATA SSD" Product Price: US $363.09]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "Intel i5 5th Gen. CPU Ultrabook, 13.3" Laptop Computer, 8GB RAM, 128GB SSD+1TB HDD, 1920*1080, HDMI, 8 Cell Battery, Windows 10" Product Price: US $363.09]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "Jumper EZbook 3 Intel apollo N3350 Laptop 14 Inch Windows 10 Narrow Frame notebook computer 1920x1080 FHD 4GB 64GB ultrabook" Product Price: US $363.09]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "Jumper Air 11.6 Inch Windows 10 Laptop Aluminum case IPS 1920x1080 Intel Cherry trail Z8350 4GB 128GB Computer Type C Ultrabook" Product Price: US $363.09]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "GPD WIN Gamepad Laptop NoteBook Tablet PC 5.5" Handheld Game Console Video Game Player x7-Z8750 Windows Bluetooth 4.1 4GB/64GB" Product Price: US $363.09]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "Bben G173 computer intel 6th gen. i7-6700K Quad cores DDR4 8GB+256GB M.2 SSD+1TB HDD fast oot type-c GTX970M laptop win10" Product Price: US $363.09]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "I7-6700K laptop notebook DDR4 8GB/128GB M.2 SSD+1TB HDD 17.3 inch FHD 8M Cache, 4.0GHZ-4.20 GHz 6GB DDR5 Video RAM" Product Price: US $363.09]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "BBen G173 17.3'' Laptops Gaming Computer Intel i7-6700K Quad Core Windows10 DDR4 32G,1TB HDD Backlit Keyboard" Product Price: US $363.09]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "Bben laptop with processor Intel Core i7-6700K Processor 8M Cache, 4.0GHZ to 4.20 GHz DDR4 8GB 256GB M.2 SSD +2TB HDD win10" Product Price: US $363.09]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "I7-6700K laptop notebook DDR4 8GB/128GB M.2 SSD+1TB HDD 17.3 inch FHD 8M Cache, 4.0GHZ-4.20 GHz 6GB DDR5 Video RAM" Product Price: US $363.09]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "BBEN DDR4 LAPTOP RAM 32GB,ROM M.2 128GB SSD+2TB HDD, VRAM 6GB,GeForce GTX970M 17.3inch windows10 system" Product Price: US $363.09]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "2017 Newest 13.3 Inch Laptop Ultrabook Computer Core i7 5500U Max 8GB RAM 512GB SSD Webcam Backlight Keyboard,Full Metal Case" Product Price: US $363.09]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "Bben 17.3" i7-6700K LAPTOP QUAD CORES DDR4 8GB/16GB/32GB,M.2 128GB/256GB, 500GB/1TB HDD option with type-c 6G VRAM" Product Price: US $363.09]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "Bben 14.1 Inch Notebook Laptop Computer Intel N2840 Core Windows10 16:9 HD Screen 2GB RAM/32GB EMMC 500G HDD Ultrabook Computer" Product Price: US $363.09]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "New 14 inch notebook computer Ultrabook laptop PC Windows8.1 In-tel Celeron J1900 2.0Ghz 4GB DDR3 750GB HDD WIFI HDMI webcam" Product Price: US $363.09]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "FREESHIPPING 3.4GHz INTEL CORE I7 6700 quad CORE 8G RAM 120G SSD ROM 2G DEDICATED GRAPHICS CARD 400W POWER SUPPLY 32" ALL-IN-ONE" Product Price: US $363.09]]>
+    </line>
+    <line>
+      <![CDATA[Prodct Name: "CHUWI LapBook Intel Cherry Trail Z8350 Quad Core 1.44GHz 4GB RAM Windows 10 FHD Screen 15.6 inch Notebook FHD Screen Notebook" Product Price: US $363.09]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="111223" started-at="2017-03-18T13:22:57Z" finished-at="2017-03-18T13:24:49Z">
+    <groups>
+      <group name="Smoke Test">
+        <method signature="AliexpressTest.searchProductByAllCategory(org.testng.ITestContext)[pri:0, instance:executeTests.AliexpressTest@5c3bd550]" name="searchProductByAllCategory" class="executeTests.AliexpressTest"/>
+      </group> <!-- Smoke Test -->
+      <group name="Regression">
+        <method signature="AliexpressTest.searchProductByCategory(org.testng.ITestContext)[pri:0, instance:executeTests.AliexpressTest@5c3bd550]" name="searchProductByCategory" class="executeTests.AliexpressTest"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test name="Default test" duration-ms="111223" started-at="2017-03-18T13:22:57Z" finished-at="2017-03-18T13:24:49Z">
+      <class name="executeTests.AliexpressTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:executeTests.AliexpressTest@5c3bd550]" name="beforeTest" is-config="true" duration-ms="5562" started-at="2017-03-18T18:52:57Z" finished-at="2017-03-18T18:53:03Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Chrome Browser launched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="searchProductByAllCategory(org.testng.ITestContext)[pri:0, instance:executeTests.AliexpressTest@5c3bd550]" name="searchProductByAllCategory" duration-ms="48819" started-at="2017-03-18T18:53:03Z" finished-at="2017-03-18T18:53:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@2767e23c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Application url not opened in the browser]]>
+            </line>
+            <line>
+              <![CDATA[Prmo Ad is clicked in the webpage]]>
+            </line>
+            <line>
+              <![CDATA[Clear Trip Page Loaded Successfully]]>
+            </line>
+            <line>
+              <![CDATA[xiaomi Redmi Note is populated in Product]]>
+            </line>
+            <line>
+              <![CDATA[xiaomi Redmi Note is entered in the webpage]]>
+            </line>
+            <line>
+              <![CDATA[Search Button is clicked in the webpage]]>
+            </line>
+            <line>
+              <![CDATA[Product Search is Successfull]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "100% Original Xiaomi Redmi note 4X Snapdragon 625 3GB RAM 32G ROM OCTA Core 5.5 " 1080P MIUI 8 Fingerprint ID note4 4G FDD LTE" Product Price: US $155.99 - 299.99]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "brand new Original Xiaomi Redmi note 4 MTK Helio X20 2GB RAM 16GB ROM Deca Core 5.5 " 1080P MIUI 8 Fingerprint ID note4" Product Price: US $155.99 - 299.99]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "Original BRAND NEW Xiaomi Redmi note 4X Snapdragon 625 3GB RAM 32G ROM OCTA Core 5.5 " 1080P MIUI 8 Fingerprint ID notE 4X" Product Price: US $155.99 - 299.99]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "100% Original brand new 4000mAh Xiaomi Redmi Note 3 PRO 5.5 Inch 2G Ram 16G Rom 1080p HD mobilephone free shipping" Product Price: US $155.99 - 299.99]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "Original Xiaomi Redmi Note 4XSnapdragon 625 Octa Base 5.5 "FHD 3 GB RAM 32 GB ROM 13.0MP Fingerprint Digital Ca" Product Price: US $155.99 - 299.99]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "100% Original Xiaomi Redmi note 4 MTK Helio X20 3GB RAM 64G ROM Deca Core 5.5 " 1080P MIUI 8 Fingerprint ID note4 4G FDD LTE" Product Price: US $155.99 - 299.99]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "100% Original Xiaomi Redmi Note 3 PRO 5.5 Inch 2G Ram 16G Rom 1080p HD 5MP 13MP Camera 4000mAh MOBILEPHONE FREE SHIPING" Product Price: US $155.99 - 299.99]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "Original Xiaomi Redmi Note 3 pro prime 5.5 Inch 3G Ram 32G Rom 1080p HD 5MP 13MP Camera 4000mAh Freeship" Product Price: US $155.99 - 299.99]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "brand new Original Xiaomi Redmi Note 3 Pro prime Snapdragon 650 Hexa Core 5.5'' 3GB RAM 32GB ROM 4000mAh google play MIUI 8" Product Price: US $155.99 - 299.99]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "ORIGINAL BRAND NEW Original brand new 4000mAh Xiaomi Redmi Note 3 pro 5.5 Inch 2G Ram 16G Rom 1080p HD mobilephone" Product Price: US $155.99 - 299.99]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "original new Xiaomi Redmi note 4X Snapdragon 625 3GB RAM 32G ROM OCTA Core 5.5 " 1080P MIUI 8 Fingerprint ID note4 4G FDD LTE" Product Price: US $155.99 - 299.99]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "Original Xiaomi Redmi note 4 MTK Helio X20 3GB RAM 32GB ROM Deca Core 5.5 " 1080P MIUI 8 Fingerprint ID note4 4G FDD LTE" Product Price: US $155.99 - 299.99]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "freeshiping 100% Original Xiaomi Redmi Note 3 pro 5.5 Inch 3G Ram 32G Rom 1080p HD 5MP 13MP Camera 4000mAh mobilephone" Product Price: US $155.99 - 299.99]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "brand new Xiaomi Redmi note 4 4GB RAM 64G ROM MTK Helio X20 Deca Core 5.5 " 1080P MIUI 8 Fingerprint ID note4 4G FDD LTE" Product Price: US $155.99 - 299.99]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "100% Original Xiaomi Redmi note 4 4GB RAM 64G ROM MTK Helio X20 Deca Core 5.5 " 1080P MIUI 8 Fingerprint ID note4 4G FDD LTE" Product Price: US $155.99 - 299.99]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "Original Xiaomi Redmi Redrice Note 3 pro 5.5 Inch 3G Ram 32G Rom 1080p HD 5MP 13MP Camera 4000mAh Freeship" Product Price: US $155.99 - 299.99]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "free shipping Original Xiaomi Redmi Redrice Note 3pro 5.5 Inch 2G Ram 16G Rom 1080p HD 5MP 13MP mobilephone" Product Price: US $155.99 - 299.99]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "Xiaomi Redmi Note 4 Case Nillkin Nature Series Transparent Clear Soft TPU Case for Xiaomi Redmi Note 4 Pro 5.5 inch" Product Price: US $155.99 - 299.99]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "Xiaomi Redmi Note 3 Pro Special Edition Case Lenuo Flip Case For Xiaomi Redmi Note 3i Prime SE Glass Global Internatio Version" Product Price: US $155.99 - 299.99]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "Xiaomi Redmi Note 3 Candy Color PU Leather With Card Slot Wallet Case For Xiaomi Redmi Note 3 Pro Prime China Version #0624" Product Price: US $155.99 - 299.99]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "xiaomi redmi note 2 Case NILLKIN Super Frosted Shield back cover case for xiaomi redmi note2 with free screen protector+package" Product Price: US $155.99 - 299.99]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "Xiaomi redmi note 4 Cover Xiaomi redmi note 4 case iMUCA Luxury flip leather cover cases xiaomi redmi note 4 pro prime capa" Product Price: US $155.99 - 299.99]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "xiaomi Redmi note 4 case original 100% from xiaomi PU leather flip cover for xiaomi redmi note4 pro case redmi note 4X" Product Price: US $155.99 - 299.99]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "In stock 100% original xiaomi redmi note 2 protector case flip sabic matte leather cover for redmi note 2 5.5 free Shipping" Product Price: US $155.99 - 299.99]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "Xiaomi Redmi Note 3 pro case cover silicone flip leather Mofi luxury xiaomi redmi note 3 case cover soft silicon metal cover 150" Product Price: US $155.99 - 299.99]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "Fashion Xiaomi Redmi Note 4 Case Luxury Silm Smooth & Matte Hard Protective Back Cover For Xiaomi Redmi Note 4 Pro Prime Cases" Product Price: US $155.99 - 299.99]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "Xiaomi Redmi Note 4 Case Cover silicon back flip Leather Original Mofi Xiaomi Redmi Note 4 pro case ultra thin hard metal cover" Product Price: US $155.99 - 299.99]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "New Frosted Silicone TPU Painted Soft Phone Back Cover Case For Xiaomi Redmi Note 3 3i Pro Special Edition SE 152mm 150mm Size" Product Price: US $155.99 - 299.99]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "Capa Xiaomi Redmi Note 3 Pro Case Accessory Silicone Plastic 2 in 1 Material Back Cover Coque Redmi Note3 Phone Bag Cases Fundas" Product Price: US $155.99 - 299.99]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "Xiaomi Redmi Note 2 Case Nillkin PU Leather Flip Cover Case For Xiaomi Redmi Note 2 TPU Case" Product Price: US $155.99 - 299.99]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "IMUCA Brand Xiaomi Redmi Note 4 capa Phone Case Cases xiaomi redmi note 4 pro Prime PU Leather Flip Case Coque Fundas Carcasa" Product Price: US $155.99 - 299.99]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "Xiaomi Redmi Note 2 Case Nillkin Nature Series Soft TPU Case Back Cover Case For Xiaomi Redmi Note 2 Pro Prime" Product Price: US $155.99 - 299.99]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "PZOZ Xiaomi Redmi Note 4 Case Silicone Cover Original Xiaomi Redmi Note 4 Pro Luxury Transparent Shockproof Phone Soft Shell" Product Price: US $155.99 - 299.99]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "Xiaomi Redmi Note 3 Case Nillkin Super Frosted Shield for Xiaomi Redmi Note 3 protection" Product Price: US $155.99 - 299.99]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "3D Relief Printing Clear Soft TPU Case For xiaomi Redmi note 4 / Redmi Note 4 Pro / Prime 5.5" Phone Bag Back Cover Shell Coque" Product Price: US $155.99 - 299.99]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "Case For Xiaomi Redmi Note 4 Wallet Flip Style Broncos PU Leather Cover With Card Holders For Xioami Note4 4G Phone Bag Coque" Product Price: US $155.99 - 299.99]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "100% Original | In stock | Xiaomi Redmi Note 3 Hard Case | PC | Simple | Self-colored | Non-transparent | RoHS" Product Price: US $155.99 - 299.99]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "TPU Print Cover Thickness 1.2mm For Xiaomi Redmi Note 3 Pro Prime SE Special Edition 152mm Case For Redmi Note 3 Pro Prime SE" Product Price: US $155.99 - 299.99]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "Xiaomi redmi note 4 case redmi note 4 pro prime cover Nillkin frosted case for xiaomi redmi note 4 pro prime with glass film" Product Price: US $155.99 - 299.99]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "Xiaomi Redmi Note 2 Case Nillkin Frosted Shield Hard Back Cover Case For Xiaomi Redmi Note 2 Prime Gift Screen Protector" Product Price: US $155.99 - 299.99]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "Xiaomi Redmi Note 4 Case redmi note 4 Cover Luxury Flip Leather Cover Case For Xiaomi Redmi Note 4 Pro Prime Red Rice Note4 capa" Product Price: US $155.99 - 299.99]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "100% from xiaomi company Original Xiaomi Redmi Note 4 Case PU Flip Case For Xiaomi Redmi Note4 Pro" Product Price: US $155.99 - 299.99]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "Xiaomi Redmi Note 4 Case Nillkin Frosted Shield Cover Case For Xiaomi Redmi Note 4 Pro Prime 5.5 inch With Film" Product Price: US $155.99 - 299.99]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "Xiaomi Redmi Note 3 pro case cover silicone flip leather Mofi luxury xiaomi redmi note 3 case cover soft silicon metal cover 150" Product Price: US $155.99 - 299.99]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchProductByAllCategory -->
+        <test-method status="PASS" signature="searchProductByCategory(org.testng.ITestContext)[pri:0, instance:executeTests.AliexpressTest@5c3bd550]" name="searchProductByCategory" duration-ms="53353" started-at="2017-03-18T18:53:52Z" finished-at="2017-03-18T18:54:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@2767e23c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Application url not opened in the browser]]>
+            </line>
+            <line>
+              <![CDATA[Clear Trip Page Loaded Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Computer & Office is populated in Category]]>
+            </line>
+            <line>
+              <![CDATA[Laptops is populated in Product]]>
+            </line>
+            <line>
+              <![CDATA[Category Name is clicked in the webpage]]>
+            </line>
+            <line>
+              <![CDATA[Product Name is clicked in the webpage]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "GPD WIN Gamepad Laptop NoteBook Tablet PC 5.5" Handheld Game Console Video Game Player x7-Z8750 Windows Bluetooth 4.1 4GB/64GB" Product Price: US $363.09]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "Jumper Air 11.6 Inch Windows 10 Aluminum Laptop Computer IPS 1920x1080 Intel Atom Z8350 4GB RAM 128GB ROM USB Type C Ultrabook" Product Price: US $363.09]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "Chuwi LapBook 14.1 Inch LapTop Intel Apollo lake N3450 Windows10 RAM 4G DDR3 ROM 64G 1920x1080 IPS Dual WIFI Gen9 Ultrathin" Product Price: US $363.09]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "Kingdel Newest Core i5 5200U CPU 13.3 Inch Backlit Keyboard Ultrabook Laptop Computer max 8GB RAM 512G SSD Webcam Wifi Bluetooth" Product Price: US $363.09]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "Jumper EZbook 2 A14 Laptop 14.1 Inch Windows 10 notebook computer 1920x1080 FHD Intel Cherry Trail Z8300 4GB 64GB ultrabook" Product Price: US $363.09]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "14" 8GB RAM 750GB HDD 64GB SSD ultra thin laptop computer HD screen J1900 quad core WIFI Windows 8 notebook" Product Price: US $363.09]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "14inch laptop computer Intel N3150 Quad core 1920*1080 HD screen USB 3.0 HDMI fanless Windows ultrabook" Product Price: US $363.09]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "Bben 14.1 Inch Notebook Laptop Computer Intel N2840 Core Windows10 16:9 HD Screen 2GB RAM/32GB EMMC 500G HDD Ultrabook Computer" Product Price: US $363.09]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "Jumper EZbook 2 A14 14.1 Inch Ultrabook Notebook 1920 x 1080 IPS Display Intel X5 Z8300 4GB RAM 64GB ROM eMMC Windows 10 Laptop" Product Price: US $363.09]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "13.3inch windows 10 ultrabook laptop computer 2GB 64GB EMMC 1920*1080 HD screen aluminium back case notbook PC" Product Price: US $363.09]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "Bben laptop quad cores i7-6700K 8M Cache, 4.0GHZ-4.20 GHz RAM DDR4 16GB,ROM M.2 SSD 128GB+1TB HDD 17.3inch windows10 GTX970M" Product Price: US $363.09]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "BBen laptop notebook DDR4 64GB+128GB M.2 SSD+500G HDD Intel i7-6700K quad cores windows10 wifi HDMI type-c" Product Price: US $363.09]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "BBen AK13 Laptops Ultrabook 13.3'' Windows 10 Intel Haswell i5-5200U Dual Core RAM 4G + SSD 64G HDMI WiFi BT4.0 13 inch Notebook" Product Price: US $363.09]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "Xiaomi Mi Notebook Air i5 13.3 8GB DDR4 RAM 256GB SSD Windows 10 1920 x 1080 2.7GHz Ultrabook laoptop Built-in 256GB SSD" Product Price: US $363.09]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "Gold English Xiaomi Air 12 Laptop Notebook Ultra Slim 12.5 inch Windows 10 IPS FHD 1920 x 1080 4GB RAM 128GB SSD HDMI 2.2GHz" Product Price: US $363.09]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "Aluminium Metal Ultrabook Laptop Intel Core i7 5600U 8G RAM 256G SSD Laptops Notebook Window 7 8 10 Linux 7000mah battery 2.6Ghz" Product Price: US $363.09]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "Original Xiaomi Mi laptop Air Intel Core i7-6500U CPU 8GB DDR4 RAM Intel GPU 13.3inch Notebook Windows 10 Built-in 256GB SSD" Product Price: US $363.09]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "Gaming Laptop i7 8GB RAM 64GB SSD +750GB HDD 15.6inch Large Notebook PC DVD Metal Case AZERTY Italian Spanish Russian Keyboard" Product Price: US $363.09]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "Partaker G3 Intel Dual Core I7 5600U Windows Laptops computer with 13.3 Inch" Product Price: US $363.09]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "Jumper Ezbook 2 Ultrabook Laptop Windows 10 Home Intel Cherry Trail X5-Z8300 Quad Core 1.44GHz 4GB+64GB HDMI 14.1 inch Notebook" Product Price: US $363.09]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "Partaker 13.3 inch Intel i7 5600u Notebook Laptop Computer with Bluetooth Webcam 7000mah Battery" Product Price: US $363.09]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "CHUWI LapBook 14.1 inch LapTop Intel Apollo Lake N3450 Windows10 4GB RAM 64GB ROM Tablet PC NoteBook IPS 1920x1080 Full HD" Product Price: US $363.09]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "New 14 inch notebook computer Ultrabook laptop PC Windows8.1 In-tel Celeron J1900 2.0Ghz 4GB DDR3 750GB HDD WIFI HDMI webcam" Product Price: US $363.09]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "FREESHIPPING 3.4GHz INTEL CORE I7 6700 quad CORE 8G RAM 120G SSD ROM 2G DEDICATED GRAPHICS CARD 400W POWER SUPPLY 32" ALL-IN-ONE" Product Price: US $363.09]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "ultraslim 32GB eMMC and 64G SSD Memory 4G DDR3 CPU Intel Z8300 notebook laptop window 10 HDMI VIFI ultra thin laptop" Product Price: US $363.09]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "CHUWI LapBook Intel Cherry Trail Z8350 Quad Core 1.44GHz 4GB RAM Windows 10 FHD Screen 15.6 inch Notebook FHD Screen Notebook" Product Price: US $363.09]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "Chuwi LapBook 14.1 inch LapTop Windows10 Intel Apollo lake N3450 4GB RAM 64GB ROM IPS 1920x1080 Full HD Tablet PC NoteBook" Product Price: US $363.09]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "CHUWI LapBook 14.1"Windows 10 FHD Screen Notebook Intel Apollo Lake Celeron N3450 Quad Core 1.1GHz 4GB/64GB HDMI WiFi Laptop" Product Price: US $363.09]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "Laptops 1920*1080P 14.0 inch Laptop Ultrabook Dual Core 8GB RAM 1TB HDD + 64Gb SSD WIFI Bluetooth USB 3.0 Port on Sale" Product Price: US $363.09]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "Xiaomi Mi Laptop Notebook Air English Windows 10 Intel Core M3-6Y30 CPU 4GB DDR3 RAM Intel GPU 12.5 inch display SATA SSD" Product Price: US $363.09]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "Intel i5 5th Gen. CPU Ultrabook, 13.3" Laptop Computer, 8GB RAM, 128GB SSD+1TB HDD, 1920*1080, HDMI, 8 Cell Battery, Windows 10" Product Price: US $363.09]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "Jumper EZbook 3 Intel apollo N3350 Laptop 14 Inch Windows 10 Narrow Frame notebook computer 1920x1080 FHD 4GB 64GB ultrabook" Product Price: US $363.09]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "Jumper Air 11.6 Inch Windows 10 Laptop Aluminum case IPS 1920x1080 Intel Cherry trail Z8350 4GB 128GB Computer Type C Ultrabook" Product Price: US $363.09]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "GPD WIN Gamepad Laptop NoteBook Tablet PC 5.5" Handheld Game Console Video Game Player x7-Z8750 Windows Bluetooth 4.1 4GB/64GB" Product Price: US $363.09]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "Bben G173 computer intel 6th gen. i7-6700K Quad cores DDR4 8GB+256GB M.2 SSD+1TB HDD fast oot type-c GTX970M laptop win10" Product Price: US $363.09]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "I7-6700K laptop notebook DDR4 8GB/128GB M.2 SSD+1TB HDD 17.3 inch FHD 8M Cache, 4.0GHZ-4.20 GHz 6GB DDR5 Video RAM" Product Price: US $363.09]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "BBen G173 17.3'' Laptops Gaming Computer Intel i7-6700K Quad Core Windows10 DDR4 32G,1TB HDD Backlit Keyboard" Product Price: US $363.09]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "Bben laptop with processor Intel Core i7-6700K Processor 8M Cache, 4.0GHZ to 4.20 GHz DDR4 8GB 256GB M.2 SSD +2TB HDD win10" Product Price: US $363.09]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "I7-6700K laptop notebook DDR4 8GB/128GB M.2 SSD+1TB HDD 17.3 inch FHD 8M Cache, 4.0GHZ-4.20 GHz 6GB DDR5 Video RAM" Product Price: US $363.09]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "BBEN DDR4 LAPTOP RAM 32GB,ROM M.2 128GB SSD+2TB HDD, VRAM 6GB,GeForce GTX970M 17.3inch windows10 system" Product Price: US $363.09]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "2017 Newest 13.3 Inch Laptop Ultrabook Computer Core i7 5500U Max 8GB RAM 512GB SSD Webcam Backlight Keyboard,Full Metal Case" Product Price: US $363.09]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "Bben 17.3" i7-6700K LAPTOP QUAD CORES DDR4 8GB/16GB/32GB,M.2 128GB/256GB, 500GB/1TB HDD option with type-c 6G VRAM" Product Price: US $363.09]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "Bben 14.1 Inch Notebook Laptop Computer Intel N2840 Core Windows10 16:9 HD Screen 2GB RAM/32GB EMMC 500G HDD Ultrabook Computer" Product Price: US $363.09]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "New 14 inch notebook computer Ultrabook laptop PC Windows8.1 In-tel Celeron J1900 2.0Ghz 4GB DDR3 750GB HDD WIFI HDMI webcam" Product Price: US $363.09]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "FREESHIPPING 3.4GHz INTEL CORE I7 6700 quad CORE 8G RAM 120G SSD ROM 2G DEDICATED GRAPHICS CARD 400W POWER SUPPLY 32" ALL-IN-ONE" Product Price: US $363.09]]>
+            </line>
+            <line>
+              <![CDATA[Prodct Name: "CHUWI LapBook Intel Cherry Trail Z8350 Quad Core 1.44GHz 4GB RAM Windows 10 FHD Screen 15.6 inch Notebook FHD Screen Notebook" Product Price: US $363.09]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchProductByCategory -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:executeTests.AliexpressTest@5c3bd550]" name="afterTest" is-config="true" duration-ms="3450" started-at="2017-03-18T18:54:45Z" finished-at="2017-03-18T18:54:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- executeTests.AliexpressTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

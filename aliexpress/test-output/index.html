@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <meta charset='utf-8'>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" />  
+    <script type="text/javascript" src="jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <br/>
+      <span class="top-banner-font-1">1 suite</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" class="collapse-all-link" title="Collapse/expand all the suites">
+          <img class="collapse-all-icon" src="collapseall.gif">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" class="navigator-link" panel-name="suite-Default_suite">
+              <span class="suite-name border-passed">Default suite</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="test-xml-Default_suite">
+                    <span>C:\Users\Star\AppData\Local\Temp\testng-eclipse--1671440551\testng-customsuite.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="testlist-Default_suite">
+                    <span class="test-stats">1 test</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="group-Default_suite">
+                    <span>2 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="times-Default_suite">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="reporter-Default_suite">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="ignored-methods-Default_suite">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="chronological-Default_suite">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">2 methods,   2 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-Default_suite" class="hide-methods passed suite-Default_suite"> (hide)</a> <!-- hide-methods passed suite-Default_suite -->
+                      <a href="#" panel-name="suite-Default_suite" class="show-methods passed suite-Default_suite"> (show)</a> <!-- show-methods passed suite-Default_suite -->
+                    </span>
+                    <div class="method-list-content passed suite-Default_suite">
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Default_suite" title="executeTests.AliexpressTest" hash-for-method="searchProductByAllCategory(org.testng.TestRunner@2767e23c)">searchProductByAllCategory(org.testng.TestRunner@2767e23c)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Default_suite" title="executeTests.AliexpressTest" hash-for-method="searchProductByCategory(org.testng.TestRunner@2767e23c)">searchProductByCategory(org.testng.TestRunner@2767e23c)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-Default_suite -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-Default_suite" class="panel Default_suite">
+          <div class="suite-Default_suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">executeTests.AliexpressTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="searchProductByAllCategory(org.testng.TestRunner@2767e23c)">
+                  </a> <!-- searchProductByAllCategory(org.testng.TestRunner@2767e23c) -->
+                  <span class="method-name">searchProductByAllCategory</span>
+                  <span class="parameters">(org.testng.TestRunner@2767e23c)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="searchProductByCategory(org.testng.TestRunner@2767e23c)">
+                  </a> <!-- searchProductByCategory(org.testng.TestRunner@2767e23c) -->
+                  <span class="method-name">searchProductByCategory</span>
+                  <span class="parameters">(org.testng.TestRunner@2767e23c)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Default_suite-class-passed -->
+        </div> <!-- panel Default_suite -->
+        <div panel-name="test-xml-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">C:\Users\Star\AppData\Local\Temp\testng-eclipse--1671440551\testng-customsuite.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;http://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite guice-stage=&quot;DEVELOPMENT&quot; name=&quot;Default suite&quot;&gt;
+  &lt;test verbose=&quot;2&quot; name=&quot;Default test&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;executeTests.AliexpressTest&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- Default test --&gt;
+&lt;/suite&gt; &lt;!-- Default suite --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for Default suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">Default test (1 class)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for Default suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="test-group">
+              <span class="test-group-name">Regression</span>
+              <br/>
+              <div class="method-in-group">
+                <span class="method-in-group-name">searchProductByCategory</span>
+                <br/>
+              </div> <!-- method-in-group -->
+            </div> <!-- test-group -->
+            <div class="test-group">
+              <span class="test-group-name">Smoke Test</span>
+              <br/>
+              <div class="method-in-group">
+                <span class="method-in-group-name">searchProductByAllCategory</span>
+                <br/>
+              </div> <!-- method-in-group -->
+            </div> <!-- test-group -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for Default suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_Default_suite');
+function tableData_Default_suite() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(2);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'searchProductByCategory')
+data.setCell(0, 2, 'executeTests.AliexpressTest')
+data.setCell(0, 3, 53353);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'searchProductByAllCategory')
+data.setCell(1, 2, 'executeTests.AliexpressTest')
+data.setCell(1, 3, 48819);
+window.suiteTableData['Default_suite']= { tableData: data, tableDiv: 'times-div-Default_suite'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 1 minutes</span>
+              <div id="times-div-Default_suite">
+              </div> <!-- times-div-Default_suite -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for Default suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">searchProductByCategory(org.testng.TestRunner@2767e23c)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Application url not opened in the browser</span>
+                <span class="reporter-method-output">Clear Trip Page Loaded Successfully</span>
+                <span class="reporter-method-output">Computer & Office is populated in Category</span>
+                <span class="reporter-method-output">Laptops is populated in Product</span>
+                <span class="reporter-method-output">Category Name is clicked in the webpage</span>
+                <span class="reporter-method-output">Product Name is clicked in the webpage</span>
+                <span class="reporter-method-output">Prodct Name: "GPD WIN Gamepad Laptop NoteBook Tablet PC 5.5" Handheld Game Console Video Game Player x7-Z8750 Windows Bluetooth 4.1 4GB/64GB" Product Price: US $363.09</span>
+                <span class="reporter-method-output">Prodct Name: "Jumper Air 11.6 Inch Windows 10 Aluminum Laptop Computer IPS 1920x1080 Intel Atom Z8350 4GB RAM 128GB ROM USB Type C Ultrabook" Product Price: US $363.09</span>
+                <span class="reporter-method-output">Prodct Name: "Chuwi LapBook 14.1 Inch LapTop Intel Apollo lake N3450 Windows10 RAM 4G DDR3 ROM 64G 1920x1080 IPS Dual WIFI Gen9 Ultrathin" Product Price: US $363.09</span>
+                <span class="reporter-method-output">Prodct Name: "Kingdel Newest Core i5 5200U CPU 13.3 Inch Backlit Keyboard Ultrabook Laptop Computer max 8GB RAM 512G SSD Webcam Wifi Bluetooth" Product Price: US $363.09</span>
+                <span class="reporter-method-output">Prodct Name: "Jumper EZbook 2 A14 Laptop 14.1 Inch Windows 10 notebook computer 1920x1080 FHD Intel Cherry Trail Z8300 4GB 64GB ultrabook" Product Price: US $363.09</span>
+                <span class="reporter-method-output">Prodct Name: "14" 8GB RAM 750GB HDD 64GB SSD ultra thin laptop computer HD screen J1900 quad core WIFI Windows 8 notebook" Product Price: US $363.09</span>
+                <span class="reporter-method-output">Prodct Name: "14inch laptop computer Intel N3150 Quad core 1920*1080 HD screen USB 3.0 HDMI fanless Windows ultrabook" Product Price: US $363.09</span>
+                <span class="reporter-method-output">Prodct Name: "Bben 14.1 Inch Notebook Laptop Computer Intel N2840 Core Windows10 16:9 HD Screen 2GB RAM/32GB EMMC 500G HDD Ultrabook Computer" Product Price: US $363.09</span>
+                <span class="reporter-method-output">Prodct Name: "Jumper EZbook 2 A14 14.1 Inch Ultrabook Notebook 1920 x 1080 IPS Display Intel X5 Z8300 4GB RAM 64GB ROM eMMC Windows 10 Laptop" Product Price: US $363.09</span>
+                <span class="reporter-method-output">Prodct Name: "13.3inch windows 10 ultrabook laptop computer 2GB 64GB EMMC 1920*1080 HD screen aluminium back case notbook PC" Product Price: US $363.09</span>
+                <span class="reporter-method-output">Prodct Name: "Bben laptop quad cores i7-6700K 8M Cache, 4.0GHZ-4.20 GHz RAM DDR4 16GB,ROM M.2 SSD 128GB+1TB HDD 17.3inch windows10 GTX970M" Product Price: US $363.09</span>
+                <span class="reporter-method-output">Prodct Name: "BBen laptop notebook DDR4 64GB+128GB M.2 SSD+500G HDD Intel i7-6700K quad cores windows10 wifi HDMI type-c" Product Price: US $363.09</span>
+                <span class="reporter-method-output">Prodct Name: "BBen AK13 Laptops Ultrabook 13.3'' Windows 10 Intel Haswell i5-5200U Dual Core RAM 4G + SSD 64G HDMI WiFi BT4.0 13 inch Notebook" Product Price: US $363.09</span>
+                <span class="reporter-method-output">Prodct Name: "Xiaomi Mi Notebook Air i5 13.3 8GB DDR4 RAM 256GB SSD Windows 10 1920 x 1080 2.7GHz Ultrabook laoptop Built-in 256GB SSD" Product Price: US $363.09</span>
+                <span class="reporter-method-output">Prodct Name: "Gold English Xiaomi Air 12 Laptop Notebook Ultra Slim 12.5 inch Windows 10 IPS FHD 1920 x 1080 4GB RAM 128GB SSD HDMI 2.2GHz" Product Price: US $363.09</span>
+                <span class="reporter-method-output">Prodct Name: "Aluminium Metal Ultrabook Laptop Intel Core i7 5600U 8G RAM 256G SSD Laptops Notebook Window 7 8 10 Linux 7000mah battery 2.6Ghz" Product Price: US $363.09</span>
+                <span class="reporter-method-output">Prodct Name: "Original Xiaomi Mi laptop Air Intel Core i7-6500U CPU 8GB DDR4 RAM Intel GPU 13.3inch Notebook Windows 10 Built-in 256GB SSD" Product Price: US $363.09</span>
+                <span class="reporter-method-output">Prodct Name: "Gaming Laptop i7 8GB RAM 64GB SSD +750GB HDD 15.6inch Large Notebook PC DVD Metal Case AZERTY Italian Spanish Russian Keyboard" Product Price: US $363.09</span>
+                <span class="reporter-method-output">Prodct Name: "Partaker G3 Intel Dual Core I7 5600U Windows Laptops computer with 13.3 Inch" Product Price: US $363.09</span>
+                <span class="reporter-method-output">Prodct Name: "Jumper Ezbook 2 Ultrabook Laptop Windows 10 Home Intel Cherry Trail X5-Z8300 Quad Core 1.44GHz 4GB+64GB HDMI 14.1 inch Notebook" Product Price: US $363.09</span>
+                <span class="reporter-method-output">Prodct Name: "Partaker 13.3 inch Intel i7 5600u Notebook Laptop Computer with Bluetooth Webcam 7000mah Battery" Product Price: US $363.09</span>
+                <span class="reporter-method-output">Prodct Name: "CHUWI LapBook 14.1 inch LapTop Intel Apollo Lake N3450 Windows10 4GB RAM 64GB ROM Tablet PC NoteBook IPS 1920x1080 Full HD" Product Price: US $363.09</span>
+                <span class="reporter-method-output">Prodct Name: "New 14 inch notebook computer Ultrabook laptop PC Windows8.1 In-tel Celeron J1900 2.0Ghz 4GB DDR3 750GB HDD WIFI HDMI webcam" Product Price: US $363.09</span>
+                <span class="reporter-method-output">Prodct Name: "FREESHIPPING 3.4GHz INTEL CORE I7 6700 quad CORE 8G RAM 120G SSD ROM 2G DEDICATED GRAPHICS CARD 400W POWER SUPPLY 32" ALL-IN-ONE" Product Price: US $363.09</span>
+                <span class="reporter-method-output">Prodct Name: "ultraslim 32GB eMMC and 64G SSD Memory 4G DDR3 CPU Intel Z8300 notebook laptop window 10 HDMI VIFI ultra thin laptop" Product Price: US $363.09</span>
+                <span class="reporter-method-output">Prodct Name: "CHUWI LapBook Intel Cherry Trail Z8350 Quad Core 1.44GHz 4GB RAM Windows 10 FHD Screen 15.6 inch Notebook FHD Screen Notebook" Product Price: US $363.09</span>
+                <span class="reporter-method-output">Prodct Name: "Chuwi LapBook 14.1 inch LapTop Windows10 Intel Apollo lake N3450 4GB RAM 64GB ROM IPS 1920x1080 Full HD Tablet PC NoteBook" Product Price: US $363.09</span>
+                <span class="reporter-method-output">Prodct Name: "CHUWI LapBook 14.1"Windows 10 FHD Screen Notebook Intel Apollo Lake Celeron N3450 Quad Core 1.1GHz 4GB/64GB HDMI WiFi Laptop" Product Price: US $363.09</span>
+                <span class="reporter-method-output">Prodct Name: "Laptops 1920*1080P 14.0 inch Laptop Ultrabook Dual Core 8GB RAM 1TB HDD + 64Gb SSD WIFI Bluetooth USB 3.0 Port on Sale" Product Price: US $363.09</span>
+                <span class="reporter-method-output">Prodct Name: "Xiaomi Mi Laptop Notebook Air English Windows 10 Intel Core M3-6Y30 CPU 4GB DDR3 RAM Intel GPU 12.5 inch display SATA SSD" Product Price: US $363.09</span>
+                <span class="reporter-method-output">Prodct Name: "Intel i5 5th Gen. CPU Ultrabook, 13.3" Laptop Computer, 8GB RAM, 128GB SSD+1TB HDD, 1920*1080, HDMI, 8 Cell Battery, Windows 10" Product Price: US $363.09</span>
+                <span class="reporter-method-output">Prodct Name: "Jumper EZbook 3 Intel apollo N3350 Laptop 14 Inch Windows 10 Narrow Frame notebook computer 1920x1080 FHD 4GB 64GB ultrabook" Product Price: US $363.09</span>
+                <span class="reporter-method-output">Prodct Name: "Jumper Air 11.6 Inch Windows 10 Laptop Aluminum case IPS 1920x1080 Intel Cherry trail Z8350 4GB 128GB Computer Type C Ultrabook" Product Price: US $363.09</span>
+                <span class="reporter-method-output">Prodct Name: "GPD WIN Gamepad Laptop NoteBook Tablet PC 5.5" Handheld Game Console Video Game Player x7-Z8750 Windows Bluetooth 4.1 4GB/64GB" Product Price: US $363.09</span>
+                <span class="reporter-method-output">Prodct Name: "Bben G173 computer intel 6th gen. i7-6700K Quad cores DDR4 8GB+256GB M.2 SSD+1TB HDD fast oot type-c GTX970M laptop win10" Product Price: US $363.09</span>
+                <span class="reporter-method-output">Prodct Name: "I7-6700K laptop notebook DDR4 8GB/128GB M.2 SSD+1TB HDD 17.3 inch FHD 8M Cache, 4.0GHZ-4.20 GHz 6GB DDR5 Video RAM" Product Price: US $363.09</span>
+                <span class="reporter-method-output">Prodct Name: "BBen G173 17.3'' Laptops Gaming Computer Intel i7-6700K Quad Core Windows10 DDR4 32G,1TB HDD Backlit Keyboard" Product Price: US $363.09</span>
+                <span class="reporter-method-output">Prodct Name: "Bben laptop with processor Intel Core i7-6700K Processor 8M Cache, 4.0GHZ to 4.20 GHz DDR4 8GB 256GB M.2 SSD +2TB HDD win10" Product Price: US $363.09</span>
+                <span class="reporter-method-output">Prodct Name: "I7-6700K laptop notebook DDR4 8GB/128GB M.2 SSD+1TB HDD 17.3 inch FHD 8M Cache, 4.0GHZ-4.20 GHz 6GB DDR5 Video RAM" Product Price: US $363.09</span>
+                <span class="reporter-method-output">Prodct Name: "BBEN DDR4 LAPTOP RAM 32GB,ROM M.2 128GB SSD+2TB HDD, VRAM 6GB,GeForce GTX970M 17.3inch windows10 system" Product Price: US $363.09</span>
+                <span class="reporter-method-output">Prodct Name: "2017 Newest 13.3 Inch Laptop Ultrabook Computer Core i7 5500U Max 8GB RAM 512GB SSD Webcam Backlight Keyboard,Full Metal Case" Product Price: US $363.09</span>
+                <span class="reporter-method-output">Prodct Name: "Bben 17.3" i7-6700K LAPTOP QUAD CORES DDR4 8GB/16GB/32GB,M.2 128GB/256GB, 500GB/1TB HDD option with type-c 6G VRAM" Product Price: US $363.09</span>
+                <span class="reporter-method-output">Prodct Name: "Bben 14.1 Inch Notebook Laptop Computer Intel N2840 Core Windows10 16:9 HD Screen 2GB RAM/32GB EMMC 500G HDD Ultrabook Computer" Product Price: US $363.09</span>
+                <span class="reporter-method-output">Prodct Name: "New 14 inch notebook computer Ultrabook laptop PC Windows8.1 In-tel Celeron J1900 2.0Ghz 4GB DDR3 750GB HDD WIFI HDMI webcam" Product Price: US $363.09</span>
+                <span class="reporter-method-output">Prodct Name: "FREESHIPPING 3.4GHz INTEL CORE I7 6700 quad CORE 8G RAM 120G SSD ROM 2G DEDICATED GRAPHICS CARD 400W POWER SUPPLY 32" ALL-IN-ONE" Product Price: US $363.09</span>
+                <span class="reporter-method-output">Prodct Name: "CHUWI LapBook Intel Cherry Trail Z8350 Quad Core 1.44GHz 4GB RAM Windows 10 FHD Screen 15.6 inch Notebook FHD Screen Notebook" Product Price: US $363.09</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">searchProductByAllCategory(org.testng.TestRunner@2767e23c)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Application url not opened in the browser</span>
+                <span class="reporter-method-output">Prmo Ad is clicked in the webpage</span>
+                <span class="reporter-method-output">Clear Trip Page Loaded Successfully</span>
+                <span class="reporter-method-output">xiaomi Redmi Note is populated in Product</span>
+                <span class="reporter-method-output">xiaomi Redmi Note is entered in the webpage</span>
+                <span class="reporter-method-output">Search Button is clicked in the webpage</span>
+                <span class="reporter-method-output">Product Search is Successfull</span>
+                <span class="reporter-method-output">Prodct Name: "100% Original Xiaomi Redmi note 4X Snapdragon 625 3GB RAM 32G ROM OCTA Core 5.5 " 1080P MIUI 8 Fingerprint ID note4 4G FDD LTE" Product Price: US $155.99 - 299.99</span>
+                <span class="reporter-method-output">Prodct Name: "brand new Original Xiaomi Redmi note 4 MTK Helio X20 2GB RAM 16GB ROM Deca Core 5.5 " 1080P MIUI 8 Fingerprint ID note4" Product Price: US $155.99 - 299.99</span>
+                <span class="reporter-method-output">Prodct Name: "Original BRAND NEW Xiaomi Redmi note 4X Snapdragon 625 3GB RAM 32G ROM OCTA Core 5.5 " 1080P MIUI 8 Fingerprint ID notE 4X" Product Price: US $155.99 - 299.99</span>
+                <span class="reporter-method-output">Prodct Name: "100% Original brand new 4000mAh Xiaomi Redmi Note 3 PRO 5.5 Inch 2G Ram 16G Rom 1080p HD mobilephone free shipping" Product Price: US $155.99 - 299.99</span>
+                <span class="reporter-method-output">Prodct Name: "Original Xiaomi Redmi Note 4XSnapdragon 625 Octa Base 5.5 "FHD 3 GB RAM 32 GB ROM 13.0MP Fingerprint Digital Ca" Product Price: US $155.99 - 299.99</span>
+                <span class="reporter-method-output">Prodct Name: "100% Original Xiaomi Redmi note 4 MTK Helio X20 3GB RAM 64G ROM Deca Core 5.5 " 1080P MIUI 8 Fingerprint ID note4 4G FDD LTE" Product Price: US $155.99 - 299.99</span>
+                <span class="reporter-method-output">Prodct Name: "100% Original Xiaomi Redmi Note 3 PRO 5.5 Inch 2G Ram 16G Rom 1080p HD 5MP 13MP Camera 4000mAh MOBILEPHONE FREE SHIPING" Product Price: US $155.99 - 299.99</span>
+                <span class="reporter-method-output">Prodct Name: "Original Xiaomi Redmi Note 3 pro prime 5.5 Inch 3G Ram 32G Rom 1080p HD 5MP 13MP Camera 4000mAh Freeship" Product Price: US $155.99 - 299.99</span>
+                <span class="reporter-method-output">Prodct Name: "brand new Original Xiaomi Redmi Note 3 Pro prime Snapdragon 650 Hexa Core 5.5'' 3GB RAM 32GB ROM 4000mAh google play MIUI 8" Product Price: US $155.99 - 299.99</span>
+                <span class="reporter-method-output">Prodct Name: "ORIGINAL BRAND NEW Original brand new 4000mAh Xiaomi Redmi Note 3 pro 5.5 Inch 2G Ram 16G Rom 1080p HD mobilephone" Product Price: US $155.99 - 299.99</span>
+                <span class="reporter-method-output">Prodct Name: "original new Xiaomi Redmi note 4X Snapdragon 625 3GB RAM 32G ROM OCTA Core 5.5 " 1080P MIUI 8 Fingerprint ID note4 4G FDD LTE" Product Price: US $155.99 - 299.99</span>
+                <span class="reporter-method-output">Prodct Name: "Original Xiaomi Redmi note 4 MTK Helio X20 3GB RAM 32GB ROM Deca Core 5.5 " 1080P MIUI 8 Fingerprint ID note4 4G FDD LTE" Product Price: US $155.99 - 299.99</span>
+                <span class="reporter-method-output">Prodct Name: "freeshiping 100% Original Xiaomi Redmi Note 3 pro 5.5 Inch 3G Ram 32G Rom 1080p HD 5MP 13MP Camera 4000mAh mobilephone" Product Price: US $155.99 - 299.99</span>
+                <span class="reporter-method-output">Prodct Name: "brand new Xiaomi Redmi note 4 4GB RAM 64G ROM MTK Helio X20 Deca Core 5.5 " 1080P MIUI 8 Fingerprint ID note4 4G FDD LTE" Product Price: US $155.99 - 299.99</span>
+                <span class="reporter-method-output">Prodct Name: "100% Original Xiaomi Redmi note 4 4GB RAM 64G ROM MTK Helio X20 Deca Core 5.5 " 1080P MIUI 8 Fingerprint ID note4 4G FDD LTE" Product Price: US $155.99 - 299.99</span>
+                <span class="reporter-method-output">Prodct Name: "Original Xiaomi Redmi Redrice Note 3 pro 5.5 Inch 3G Ram 32G Rom 1080p HD 5MP 13MP Camera 4000mAh Freeship" Product Price: US $155.99 - 299.99</span>
+                <span class="reporter-method-output">Prodct Name: "free shipping Original Xiaomi Redmi Redrice Note 3pro 5.5 Inch 2G Ram 16G Rom 1080p HD 5MP 13MP mobilephone" Product Price: US $155.99 - 299.99</span>
+                <span class="reporter-method-output">Prodct Name: "Xiaomi Redmi Note 4 Case Nillkin Nature Series Transparent Clear Soft TPU Case for Xiaomi Redmi Note 4 Pro 5.5 inch" Product Price: US $155.99 - 299.99</span>
+                <span class="reporter-method-output">Prodct Name: "Xiaomi Redmi Note 3 Pro Special Edition Case Lenuo Flip Case For Xiaomi Redmi Note 3i Prime SE Glass Global Internatio Version" Product Price: US $155.99 - 299.99</span>
+                <span class="reporter-method-output">Prodct Name: "Xiaomi Redmi Note 3 Candy Color PU Leather With Card Slot Wallet Case For Xiaomi Redmi Note 3 Pro Prime China Version #0624" Product Price: US $155.99 - 299.99</span>
+                <span class="reporter-method-output">Prodct Name: "xiaomi redmi note 2 Case NILLKIN Super Frosted Shield back cover case for xiaomi redmi note2 with free screen protector+package" Product Price: US $155.99 - 299.99</span>
+                <span class="reporter-method-output">Prodct Name: "Xiaomi redmi note 4 Cover Xiaomi redmi note 4 case iMUCA Luxury flip leather cover cases xiaomi redmi note 4 pro prime capa" Product Price: US $155.99 - 299.99</span>
+                <span class="reporter-method-output">Prodct Name: "xiaomi Redmi note 4 case original 100% from xiaomi PU leather flip cover for xiaomi redmi note4 pro case redmi note 4X" Product Price: US $155.99 - 299.99</span>
+                <span class="reporter-method-output">Prodct Name: "In stock 100% original xiaomi redmi note 2 protector case flip sabic matte leather cover for redmi note 2 5.5 free Shipping" Product Price: US $155.99 - 299.99</span>
+                <span class="reporter-method-output">Prodct Name: "Xiaomi Redmi Note 3 pro case cover silicone flip leather Mofi luxury xiaomi redmi note 3 case cover soft silicon metal cover 150" Product Price: US $155.99 - 299.99</span>
+                <span class="reporter-method-output">Prodct Name: "Fashion Xiaomi Redmi Note 4 Case Luxury Silm Smooth & Matte Hard Protective Back Cover For Xiaomi Redmi Note 4 Pro Prime Cases" Product Price: US $155.99 - 299.99</span>
+                <span class="reporter-method-output">Prodct Name: "Xiaomi Redmi Note 4 Case Cover silicon back flip Leather Original Mofi Xiaomi Redmi Note 4 pro case ultra thin hard metal cover" Product Price: US $155.99 - 299.99</span>
+                <span class="reporter-method-output">Prodct Name: "New Frosted Silicone TPU Painted Soft Phone Back Cover Case For Xiaomi Redmi Note 3 3i Pro Special Edition SE 152mm 150mm Size" Product Price: US $155.99 - 299.99</span>
+                <span class="reporter-method-output">Prodct Name: "Capa Xiaomi Redmi Note 3 Pro Case Accessory Silicone Plastic 2 in 1 Material Back Cover Coque Redmi Note3 Phone Bag Cases Fundas" Product Price: US $155.99 - 299.99</span>
+                <span class="reporter-method-output">Prodct Name: "Xiaomi Redmi Note 2 Case Nillkin PU Leather Flip Cover Case For Xiaomi Redmi Note 2 TPU Case" Product Price: US $155.99 - 299.99</span>
+                <span class="reporter-method-output">Prodct Name: "IMUCA Brand Xiaomi Redmi Note 4 capa Phone Case Cases xiaomi redmi note 4 pro Prime PU Leather Flip Case Coque Fundas Carcasa" Product Price: US $155.99 - 299.99</span>
+                <span class="reporter-method-output">Prodct Name: "Xiaomi Redmi Note 2 Case Nillkin Nature Series Soft TPU Case Back Cover Case For Xiaomi Redmi Note 2 Pro Prime" Product Price: US $155.99 - 299.99</span>
+                <span class="reporter-method-output">Prodct Name: "PZOZ Xiaomi Redmi Note 4 Case Silicone Cover Original Xiaomi Redmi Note 4 Pro Luxury Transparent Shockproof Phone Soft Shell" Product Price: US $155.99 - 299.99</span>
+                <span class="reporter-method-output">Prodct Name: "Xiaomi Redmi Note 3 Case Nillkin Super Frosted Shield for Xiaomi Redmi Note 3 protection" Product Price: US $155.99 - 299.99</span>
+                <span class="reporter-method-output">Prodct Name: "3D Relief Printing Clear Soft TPU Case For xiaomi Redmi note 4 / Redmi Note 4 Pro / Prime 5.5" Phone Bag Back Cover Shell Coque" Product Price: US $155.99 - 299.99</span>
+                <span class="reporter-method-output">Prodct Name: "Case For Xiaomi Redmi Note 4 Wallet Flip Style Broncos PU Leather Cover With Card Holders For Xioami Note4 4G Phone Bag Coque" Product Price: US $155.99 - 299.99</span>
+                <span class="reporter-method-output">Prodct Name: "100% Original | In stock | Xiaomi Redmi Note 3 Hard Case | PC | Simple | Self-colored | Non-transparent | RoHS" Product Price: US $155.99 - 299.99</span>
+                <span class="reporter-method-output">Prodct Name: "TPU Print Cover Thickness 1.2mm For Xiaomi Redmi Note 3 Pro Prime SE Special Edition 152mm Case For Redmi Note 3 Pro Prime SE" Product Price: US $155.99 - 299.99</span>
+                <span class="reporter-method-output">Prodct Name: "Xiaomi redmi note 4 case redmi note 4 pro prime cover Nillkin frosted case for xiaomi redmi note 4 pro prime with glass film" Product Price: US $155.99 - 299.99</span>
+                <span class="reporter-method-output">Prodct Name: "Xiaomi Redmi Note 2 Case Nillkin Frosted Shield Hard Back Cover Case For Xiaomi Redmi Note 2 Prime Gift Screen Protector" Product Price: US $155.99 - 299.99</span>
+                <span class="reporter-method-output">Prodct Name: "Xiaomi Redmi Note 4 Case redmi note 4 Cover Luxury Flip Leather Cover Case For Xiaomi Redmi Note 4 Pro Prime Red Rice Note4 capa" Product Price: US $155.99 - 299.99</span>
+                <span class="reporter-method-output">Prodct Name: "100% from xiaomi company Original Xiaomi Redmi Note 4 Case PU Flip Case For Xiaomi Redmi Note4 Pro" Product Price: US $155.99 - 299.99</span>
+                <span class="reporter-method-output">Prodct Name: "Xiaomi Redmi Note 4 Case Nillkin Frosted Shield Cover Case For Xiaomi Redmi Note 4 Pro Prime 5.5 inch With Film" Product Price: US $155.99 - 299.99</span>
+                <span class="reporter-method-output">Prodct Name: "Xiaomi Redmi Note 3 pro case cover silicone flip leather Mofi luxury xiaomi redmi note 3 case cover soft silicon metal cover 150" Product Price: US $155.99 - 299.99</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">0 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">executeTests.AliexpressTest</div> <!-- chronological-class-name -->
+              <div class="configuration-test before">
+                <span class="method-name">beforeTest</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-test before -->
+              <div class="test-method">
+                <span class="method-name">searchProductByAllCategory(org.testng.TestRunner@2767e23c)</span>
+                <span class="method-start">5578 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">searchProductByCategory(org.testng.TestRunner@2767e23c)</span>
+                <span class="method-start">54402 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-test after">
+                <span class="method-name">afterTest</span>
+                <span class="method-start">107763 ms</span>
+              </div> <!-- configuration-test after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+</html>
