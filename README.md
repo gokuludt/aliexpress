@@ -11,6 +11,7 @@ Tools used in the project are.,
 #jenkins
 
 For changing the Browser type, kindly the update the input data fine in config folder
-aliexpress\resources\config
+aliexpress\resources\config.
+
 For changing the test data, kindly edit the excel sheet (Test CaseData) in datatables folder
 aliexpress\resources\datatables
